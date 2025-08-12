@@ -14,3 +14,9 @@
 ![git status](./Img/Git-status.png)
 ![git commit](./Img/Git-commit.png)
 ![git push](./Img/Git-push.png)
+
+## Git Branch command
+![git branch](./Img/Git-branch.png)
+
+## New Branch for Tom
+![new branch](./Img/New-branch-for-Tom.png)
